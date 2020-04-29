@@ -10,11 +10,13 @@ Shane Tremel
 # **Assignment Three**
 
 + This project is essentially a drawing board, with three different colors and an eraser avaible
-+ Use left / right arrow keys to change between the three colors (to get back to pink, press any key)
-+ Use shift to erase, the eraser acts like another color as far as how to use it is concerned
 + This project uses the mouses location to draw lines, however lines are only drawn if the mouse is pressed
 + The weight of the brush is changed via the dist() command
 + I used if statements to check if mouseIsPressed, and if it is then it uses more if statements to check for key actions
+
+**Instructions**
++ Use left / right arrow keys to change between the three colors (to get back to pink, press any key)
++ Use shift to erase, the eraser acts like another color as far as how to use it is concerned
 
 # **Assignment Five**
 
